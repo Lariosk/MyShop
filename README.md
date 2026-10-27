@@ -10,3 +10,5 @@
    * Add---> Si agregó un archivo
    * Fix---> Si corrigió
    * Modify---> Si realizó algún cambio
+
+//Rodriguez Herrera Emmanuel 902-M, agregar un descuento mayor
