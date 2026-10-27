@@ -1,6 +1,6 @@
 # ESPACIO DE PRUEBA
 
-
+Se actualizo la interfaz de la tienda a una interfaz mas limpia y intuitiva para el usuario
 ## INSTRUCCIONES
 
 1. Cada alumno revisará el repositorio y podrá:
