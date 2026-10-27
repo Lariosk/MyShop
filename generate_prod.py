@@ -3,9 +3,10 @@ import secrets
 import string
 
 PRODUCTOS = [
-    "Laptop", "Mouse", "Teclado", "Monitor", "Impresora",
+    "Laptop", "Mouse", "Teclado", "Monitor", "Impresora", 
     "Audifonos", "Tablet", "Webcam", "Bocinas", "Microfono",
-    "Memoria USB", "Disco Duro", "Cargador", "Router", "Camara"
+    "Memoria USB", "Disco Duro", "Cargador", "Router", "Camara", 
+        "Teléfono", "Teclado inalámbrico", "Monitor 2V", "Tablet"
 ]
 
 MARCAS = [
