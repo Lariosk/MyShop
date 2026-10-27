@@ -10,3 +10,8 @@
    * Add---> Si agregó un archivo
    * Fix---> Si corrigió
    * Modify---> Si realizó algún cambio
+
+
+
+
+Murillo Tamayo Samuel David 902M --> Modify "Moví los estilos del HTML a un CSS independiente".
