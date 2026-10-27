@@ -1,8 +1,8 @@
 import random
 import secrets
 
-NOMBRES = ["carlos", "maria", "juan", "ana", "luis", "sofia", "pedro", "lucia", "diego", "valeria"]
-APELLIDOS = ["garcia", "lopez", "martinez", "hernandez", "perez", "ramirez", "torres", "flores"]
+NOMBRES = ["Carlos", "Maria", "Juan", "Ana", "Luis", "Sofia", "Pedro", "Lucia", "Diego", "Valeria"]
+APELLIDOS = ["Garcia", "Lopez", "Martinez", "Hernandez", "Perez", "Ramirez", "Torres", "Flores"]
 DOMINIOS = ["example.com", "gmail.com", "utn.org"]
 
 
