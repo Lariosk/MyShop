@@ -10,3 +10,4 @@
    * Add---> Si agregó un archivo
    * Fix---> Si corrigió
    * Modify---> Si realizó algún cambio
+Valverde Sánchez Felix Marlon, Grupo ITIC-902M, FIX -> Corregi el archivo "pruebas", ya que tenia un error de sintaxis.
