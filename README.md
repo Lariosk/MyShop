@@ -10,3 +10,7 @@
    * Add---> Si agregó un archivo
    * Fix---> Si corrigió
    * Modify---> Si realizó algún cambio
+
+3. Cambios hechos (Fix):
+   * Elizondo Sandoval Ángel Eduardo **Fix** - ITIC902M - `tienda.py`: se agregó validación de entrada (texto y montos ≤ 0) y se separó el cálculo en una función
+   * Elizondo Sandoval Ángel Eduardo **Add** - ITIC902M - `test_tienda.py`: pruebas unitarias para el cálculo de descuentos
