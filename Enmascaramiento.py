@@ -1,6 +1,10 @@
 import random
 # 1. Enmascarar un correo electrónico
+# Se modifico este metodo para mejorar la validación del correo porque si llega un @ o mas de 2 puede tronar con el error ValueErroryy
 def enmascarar_correo(correo):
+    if not correo or correo.count("@") != 1:
+        raise ValueError(f"Correo inválido: {correo}")
+
     usuario, dominio = correo.split("@")
 
     if len(usuario) <= 2:

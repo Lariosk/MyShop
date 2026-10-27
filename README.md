@@ -10,3 +10,7 @@
    * Add---> Si agregó un archivo
    * Fix---> Si corrigió
    * Modify---> Si realizó algún cambio
+
+   Justin Castro Rodríguez
+   ITIC-902M
+   Modify: Se añadio una validación al un metodo de Enmascaramiento
