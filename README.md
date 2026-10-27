@@ -10,3 +10,6 @@
    * Add---> Si agregó un archivo
    * Fix---> Si corrigió
    * Modify---> Si realizó algún cambio
+   Leyvi Dayana Reyes Ramírez
+    ITIC-902M, 
+   Modify de archivo Tienda.html
