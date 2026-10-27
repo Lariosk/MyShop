@@ -10,3 +10,6 @@
    * Add---> Si agregó un archivo
    * Fix---> Si corrigió
    * Modify---> Si realizó algún cambio
+
+
+Ruiz Torres Oscar Oliverio Fix 902M Se separo el HTML del CSS 
