@@ -10,3 +10,7 @@
    * Add---> Si agregó un archivo
    * Fix---> Si corrigió
    * Modify---> Si realizó algún cambio
+
+
+Kaled Yael Arellano Hernández ITIC - 902M
+Modify: Archvio HTML: "Tienda.html" - Cambio de colores de la interfaz
