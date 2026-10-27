@@ -10,3 +10,15 @@
    * Add---> Si agregó un archivo
    * Fix---> Si corrigió
    * Modify---> Si realizó algún cambio
+
+
+## Cambios 
+Jorge Esteban Pérez García Grupo ITIC-902M
+   * Modify:
+   - Datos.py
+   - generate_prod.py
+   - generate.py
+   - README.md
+
+   *
+

@@ -1,7 +1,7 @@
 import random
 import secrets
 
-NOMBRES = ["carlos", "maria", "juan", "ana", "luis", "sofia", "pedro", "lucia"]
+NOMBRES = ["carlos", "maria", "juan", "ana", "luis", "sofia", "pedro", "lucia", "esteban"]
 APELLIDOS = ["garcia", "lopez", "martinez", "hernandez", "perez", "ramirez"]
 CARACTERES = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
 

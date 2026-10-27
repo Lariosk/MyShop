@@ -5,7 +5,8 @@ import string
 PRODUCTOS = [
     "Laptop", "Mouse", "Teclado", "Monitor", "Impresora",
     "Audifonos", "Tablet", "Webcam", "Bocinas", "Microfono",
-    "Memoria USB", "Disco Duro", "Cargador", "Router", "Camara"
+    "Memoria USB", "Disco Duro", "Cargador", "Router", "Camara",
+    "Smartphone", "Smartwatch", "Proyector", "Placa de Video", "Fuente de Poder"
 ]
 
 MARCAS = [
