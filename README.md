@@ -10,3 +10,4 @@
    * Add---> Si agregó un archivo
    * Fix---> Si corrigió
    * Modify---> Si realizó algún cambio
+Emiliano Garcia Granados Fix 902 se separo el html de los css
