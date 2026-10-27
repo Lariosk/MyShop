@@ -4,7 +4,7 @@ import string
 
 PRODUCTOS = [
     "Laptop", "Mouse", "Teclado", "Monitor", "Impresora",
-    "Audifonos", "Tablet", "Webcam", "Bocinas", "Microfono",
+    "Audifonos", "Tablet", "Webcam", "Bocinas", "Teclado",
     "Memoria USB", "Disco Duro", "Cargador", "Router", "Camara"
 ]
 
