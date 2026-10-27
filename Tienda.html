@@ -43,6 +43,22 @@
             margin-bottom: 25px;
         }
 
+        /* Tabla informativa añadida */
+        .tabla-descuentos {
+            background-color: #f8fafc;
+            border: 1px dashed #b8c7d9;
+            border-radius: 6px;
+            padding: 10px 15px;
+            margin-bottom: 20px;
+            font-size: 14px;
+            color: #1e3a5f;
+        }
+
+        .tabla-descuentos ul {
+            margin: 5px 0 0 0;
+            padding-left: 20px;
+        }
+
         label {
             display: block;
             font-weight: bold;
@@ -65,6 +81,11 @@
             box-shadow: 0 0 0 2px rgba(23, 105, 170, 0.15);
         }
 
+        .botones-container {
+            display: flex;
+            gap: 10px;
+        }
+
         button {
             width: 100%;
             padding: 13px;
@@ -79,6 +100,15 @@
 
         button:hover {
             background-color: #0d4f82;
+        }
+
+        .btn-limpiar {
+            background-color: #64748b;
+            width: 40%;
+        }
+
+        .btn-limpiar:hover {
+            background-color: #475569;
         }
 
         .error {
@@ -130,6 +160,16 @@
                 Calculadora de descuentos
             </p>
 
+            <!-- Guía rápida de descuentos -->
+            <div class="tabla-descuentos">
+                <strong>Rangos de descuento:</strong>
+                <ul>
+                    <li>$1,000 o más: 5%</li>
+                    <li>$5,000 o más: 10%</li>
+                    <li>Más de $10,000: 15%</li>
+                </ul>
+            </div>
+
             <form id="formulario">
 
                 <label for="compra">
@@ -144,9 +184,14 @@
                     placeholder="Ejemplo: 5000"
                 >
 
-                <button type="submit">
-                    Calcular descuento
-                </button>
+                <div class="botones-container">
+                    <button type="submit">
+                        Calcular descuento
+                    </button>
+                    <button type="button" id="btnLimpiar" class="btn-limpiar">
+                        Limpiar
+                    </button>
+                </div>
 
             </form>
 
@@ -184,6 +229,7 @@
     <script>
 
         const formulario = document.getElementById("formulario");
+        const btnLimpiar = document.getElementById("btnLimpiar");
 
         formulario.addEventListener("submit", function(event) {
 
@@ -259,6 +305,13 @@
 
             resultado.style.display = "block";
 
+        });
+
+        // Limpiar formulario y resultados
+        btnLimpiar.addEventListener("click", function() {
+            formulario.reset();
+            document.getElementById("error").style.display = "none";
+            document.getElementById("resultado").style.display = "none";
         });
 
     </script>
