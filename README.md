@@ -10,3 +10,4 @@
    * Add---> Si agregó un archivo
    * Fix---> Si corrigió
    * Modify---> Si realizó algún cambio
+Lome Carbajal Diego Angel-->Modify
