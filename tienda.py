@@ -1,3 +1,4 @@
+import pytest
 
 def calcular_descuento(compra):
     if compra > 10000:
