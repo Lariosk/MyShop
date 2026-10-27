@@ -1,10 +1,13 @@
 import random
+
 # 1. Enmascarar un correo electrónico
 def enmascarar_correo(correo):
-    usuario, dominio = correo.split("@")
+    if "@" not in correo:
+        raise ValueError("Correo inválido: falta el símbolo '@'")
+    usuario, dominio = correo.split("@", 1)
 
     if len(usuario) <= 2:
-        usuario_oculto = usuario[0] + "*"
+        usuario_oculto = usuario[0] + "*" * (len(usuario) - 1) if usuario else "*"
     else:
         usuario_oculto = usuario[:2] + "*" * (len(usuario) - 2)
 
@@ -58,14 +61,15 @@ def generar_usuario():
 
 
 # 5. Ejecutar el programa
-usuario = generar_usuario()
+if __name__ == "__main__":
+    usuario = generar_usuario()
 
-print("DATOS ORIGINALES")
-print("Nombre:", usuario["nombre"])
-print("Correo:", usuario["correo"])
-print("Teléfono:", usuario["telefono"])
+    print("DATOS ORIGINALES")
+    print("Nombre:", usuario["nombre"])
+    print("Correo:", usuario["correo"])
+    print("Teléfono:", usuario["telefono"])
 
-print("\nDATOS ENMASCARADOS")
-print("Nombre:", enmascarar_nombre(usuario["nombre"]))
-print("Correo:", enmascarar_correo(usuario["correo"]))
-print("Teléfono:", enmascarar_telefono(usuario["telefono"]))
+    print("\nDATOS ENMASCARADOS")
+    print("Nombre:", enmascarar_nombre(usuario["nombre"]))
+    print("Correo:", enmascarar_correo(usuario["correo"]))
+    print("Teléfono:", enmascarar_telefono(usuario["telefono"]))

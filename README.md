@@ -10,3 +10,5 @@
    * Add---> Si agregó un archivo
    * Fix---> Si corrigió
    * Modify---> Si realizó algún cambio
+
+   - Giovani Butanda Montero - ITIC-902M - Fix---> Se corrigió `Enmascaramiento.py` agregando la guarda `if __name__ == "__main__":` y validando el formato del correo en `enmascarar_correo()`.
