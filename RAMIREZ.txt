@@ -1,0 +1,3 @@
+REGLAS DEL NEGOCIO
+
+1. En el código del ciclo if-else se corrigió el operador que hacía falta, agregando un "=" a la línea "if compra >= 10000:"
