@@ -1,0 +1,9 @@
+REGLAS DEL NEGOCIO
+
+1.- Compra >= 10000 ===> 15%
+2.- Compra >= 5000 ===> 10%
+3.- Compra >= 1000 ===> 5%
+
+Se realizo la correcion de descuento de la regla "Compra >= 10000 ===> 15%" ya que en un inicio solo usaba un ">"
+y el descuento no se aplicaba correctamente a como se habia propuesto en un inicio, dando como resultado solo un descuento 
+del 10% en vez del 15% como deberia de hacerce.
