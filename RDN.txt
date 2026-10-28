@@ -1,0 +1,6 @@
+REGLAS DEL NEGOCIO:
+
+1.COMPRA >=1000 ----- 5%
+2.COMPRA >=5000 ----- 5%
+3.COMPRA >=1000 ----- 5%
+
