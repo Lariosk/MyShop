@@ -10,3 +10,8 @@
    * Add---> Si agregó un archivo
    * Fix---> Si corrigió
    * Modify---> Si realizó algún cambio
+
+
+GUZMAN SANCHEZ LUIS ENRIQUE
+GRUPO: 901-M
+FIX: Se modifico en el archivo de tienda y modifique una instruccion mal sobre el descuento en ventas de 10,000
