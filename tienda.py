@@ -1,10 +1,10 @@
 compra = float(input("Ingresa el monto de la compra: $"))
 
-if compra > 10000:
+if compra > 1000:
     descuento = 0.15
-elif compra >= 5000:
+elif compra >= 500:
     descuento = 0.10
-elif compra >= 1000:
+elif compra >= 100:
     descuento = 0.05
 else:
     descuento = 0
