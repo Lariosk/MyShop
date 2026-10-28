@@ -1,0 +1,6 @@
+REGLAS DEL NEGOCIO
+
+1.- compra >= 10000 ------ 15%
+
+En el codigo del archivo "tienda.py" se modifico el operador de una de las sentencias "if", tenia solo el operador ">" (mayor que)
+y se modifico por ">=" (mayor o igual que)
