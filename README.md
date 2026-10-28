@@ -1,12 +1,4 @@
-# ESPACIO DE PRUEBA
+# Gonzalez Rivera Axel 
+# GRUPO: ITIC-901M
 
-
-## INSTRUCCIONES
-
-1. Cada alumno revisará el repositorio y podrá:
-   * Agregar un archivo con alguna propuesta
-   * Modificar o mejorar alguna parte del código de algún archivo existente
-2. En el README deberá agregar su nombre, grupo y la acción realizada, después de su nombre deberá usar alguno de los siguientes términos:
-   * Add---> Si agregó un archivo
-   * Fix---> Si corrigió
-   * Modify---> Si realizó algún cambio
+(Modify) Se modifico el archivo tienda.py y (add) se agrego archivo de texto con la especificación del cambio hecho
