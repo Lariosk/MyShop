@@ -4,7 +4,7 @@ if compra > 10000:
     descuento = 0.15
 elif compra >= 5000:
     descuento = 0.10
-elif compra >= 1000:
+elif compra >= 100000:
     descuento = 0.05
 else:
     descuento = 0

@@ -1,0 +1,4 @@
+Reglas de Negicio 
+1. COMPRA >= 1000 --->5%
+2. COMPRA >= 5000 --->20%
+3. COMPRA >= 10000 --->25%
