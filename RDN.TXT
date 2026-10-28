@@ -1,0 +1,10 @@
+
+
+Reglas de Negocio
+
+$10,000 o más: 18% de descuento.
+$5,000 o más: 10% de descuento.
+$1,000 o más: 5% de descuento.
+Menos de $1,000: 0% de descuento.
+Clientes frecuentes: descuento adicional del 3%.
+Compra superior a $15,000: descuento especial del 25%.
