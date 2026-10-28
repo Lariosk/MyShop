@@ -1,0 +1,5 @@
+Las Reglas del Negocio. 
+1. Compra >=10000-------15%
+2. Compra >=5000--------10%
+3. Compra >=1000--------5%
+Modify---- El operador del calculo >= a 10000 sed corrigio para que se cumplan las reglas del negocio 
