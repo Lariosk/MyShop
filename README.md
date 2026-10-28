@@ -1,4 +1,4 @@
-# ESPACIO DE PRUEBA
+# SE EDITA tienda.py
 
 
 ## INSTRUCCIONES
@@ -10,3 +10,13 @@
    * Add---> Si agregó un archivo
    * Fix---> Si corrigió
    * Modify---> Si realizó algún cambio
+
+
+
+
+## ARCINIEGA XIMELLO JOSE MANUEL, GONZALEZ CHAVEZ CELESTINO JAIR ITIC-901M
+
+1. Se editan las condiciones:
+   * 20000 -> 20% descuento
+   * 7000 -> 10% descuento
+   * 3000 -> 5% descuento
