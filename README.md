@@ -10,4 +10,4 @@
 GRUPO: 901-M
 
 
-FIX: Se modifico en el archivo de tienda y modifique una instruccion mal sobre el descuento en ventas de 10,000
+FIX: Se Arreglo en el archivo de tienda y corregi una instruccion mal sobre el descuento en ventas de 10,000
