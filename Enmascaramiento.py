@@ -35,14 +35,14 @@ def enmascarar_nombre(nombre):
 
 # 4. Generar datos de ejemplo
 def generar_usuario():
-    nombres = ["Ana García López", "Carlos Pérez Ruiz",
-               "María Torres Díaz", "Luis Hernández Soto"]
+    nombres = ["Jorge Contreras Osorio", "Emiliano Pérez Gómez",
+               "Alan García", "Julio Cesar Chaves"]
 
     usuarios = [
-        ("ana.garcia@gmail.com", "5512345678"),
-        ("carlos.perez@gmail.com", "5587654321"),
-        ("maria.torres@gmail.com", "5545678912"),
-        ("luis.hernandez@gmail.com", "5523456789")
+        ("jorge.contreras@gmail.com", "5512345678"),
+        ("emiliano.perez@gmail.com", "5587654321"),
+        ("alan.garcia@gmail.com", "5545678912"),
+        ("julio.cesar@gmail.com", "5523456789")
     ]
 
     indice = random.randrange(len(nombres))
