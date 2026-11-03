@@ -1,0 +1,7 @@
+Una tienda de Ropa Online, tiene las siguientes reglas de negocio:
+
+Si la compra es >= a $1000, se hace descuento de 5%
+
+Si la compra es >= a $5000, se hace descuento de 10%
+
+Si la compra es > a $10000, se hace descuento de 15%
