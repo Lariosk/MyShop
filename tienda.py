@@ -1,3 +1,4 @@
+print("¡Bienvenido!")
 compra = float(input("Ingresa el monto de la compra: $"))
 
 if compra > 10000:
