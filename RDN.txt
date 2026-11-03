@@ -1,0 +1,5 @@
+REGLAS DEL NEGOCIO
+1. COMPRA >= 1000 ----> 5%
+2. COMPRA >= 5000 ----> 10%
+3. COMPRA >= 10000 ---> 15%
+4. COMPRA >= 20000 ---> 25%
