@@ -1,0 +1,2 @@
+Reglas de negocio
+Si la compra es mayor o igual a 1000, se otorga el 5% de descuento 
