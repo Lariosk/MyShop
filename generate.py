@@ -1,9 +1,9 @@
 import random
 import secrets
 
-NOMBRES = ["carlos", "maria", "juan", "ana", "luis", "sofia", "pedro", "lucia"]
-APELLIDOS = ["garcia", "lopez", "martinez", "hernandez", "perez", "ramirez"]
-CARACTERES = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
+NOMBRES = ["andrea", "diego", "elena", "mateo", "valentina", "santiago", "camila", "gabriel"]
+APELLIDOS = ["castro", "romero", "navarro", "ortiz", "medina", "silva"]
+CARACTERES = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%&*"
 
 
 def generate_user_data(num_users, seed=None):
